@@ -16,3 +16,8 @@ ul{
     width:600px;
     list-style-type: none;
 }
+.pre {
+    background-color: blueviolet;
+    border: solid 5px black;
+    width: 600px;
+}
